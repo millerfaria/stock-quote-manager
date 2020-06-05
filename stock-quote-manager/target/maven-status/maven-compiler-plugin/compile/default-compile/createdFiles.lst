@@ -1,0 +1,8 @@
+com\stock\stockquotemanager\controller\QuoteController.class
+com\stock\stockquotemanager\interfaces\QuoteRepository.class
+com\stock\stockquotemanager\model\Quote.class
+com\stock\stockquotemanager\service\QuoteService.class
+com\stock\stockquotemanager\service\StockService.class
+com\stock\stockquotemanager\controller\StockManagerController.class
+com\stock\stockquotemanager\StockQuoteManagerApplication.class
+com\stock\stockquotemanager\model\Stock.class
